@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jassmin-herr09
 - 👀 I’m interested in: entry level software engineer role.
-- 🌱 I’m currently learning: TypeScript. 
+- 🌱 I’m currently learning: Bootstrap5 and Sass. 
 - 💞️ I’m looking to collaborate on: Open source projects.
 - 📫 How to reach me: https://www.linkedin.com/in/jassmin-herr/
 
