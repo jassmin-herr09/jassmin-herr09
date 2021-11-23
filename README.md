@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning: Bootstrap5 and Sass. 
 - 💞️ I’m looking to collaborate on: Open source projects.
 - 📫 How to reach me: https://www.linkedin.com/in/jassmin-herr/
-- Technical writing:  https://dev.to/jherr0905
+-  Dev.to :  https://dev.to/jherr0905
+-  Fun fact: i take photos of nature and outdoors with my Nikon DSLR
 
 <!---
 jassmin-herr09/jassmin-herr09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
