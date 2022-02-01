@@ -2,7 +2,7 @@
 - 👀 I’m interested in: entry level software engineer role.
 - 🌱 I’m currently learning: Typescript and Sass
 - 💞️ I’m looking to collaborate on: Open source projects.
-- 📫 How to reach me: https://www.linkedin.com/in/jassmin-herr/
+- 📫 How to reach me: jassminfernandez@gmail.com
 -  Dev.to :  https://dev.to/jherr0905
 -  ⚡ Fun fact: I have been to Mt. Rainier National Park.
 
